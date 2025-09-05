@@ -1,4 +1,5 @@
-/* Original code taken from https://github.com/impedimentToProgress/MiBench2 and restructured */
+/* Original code taken from https://github.com/impedimentToProgress/MiBench2
+   The code has been restructured and rewritten also by means of ChatGPT */
 
 #include <stdint.h>
 #include <stdbool.h>
