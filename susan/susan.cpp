@@ -11,7 +11,8 @@
 
 ///////////////////////////
 //APPROSIMATED DATA ARRAYS
-///////////////////////////#define INIMAGE 0
+///////////////////////////
+#define INIMAGE 0
 #define GREYIMAGE 1
 #define SMOOTHIMAGE 2
 #define RIMAGE 3
