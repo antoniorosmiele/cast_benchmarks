@@ -7,6 +7,9 @@
 #include <cmath>
 #include <ctime>
 
+///////////////////////////
+//APPROSIMATED DATA ARRAYS
+///////////////////////////
 #define WEIGHT1 0
 #define WEIGHT2 1
 #define WEIGHT3 2
